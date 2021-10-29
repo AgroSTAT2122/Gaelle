@@ -1,3 +1,4 @@
-# test
+# Dossier de Gaelle
 
-pouet
+Ici contient les fichiers de cours utilisés par Gaelle Hamelin.
+
